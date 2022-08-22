@@ -1,18 +1,17 @@
 package br.com.cadin.controllers;
 
 
-import br.com.cadin.Math.SimpleMath;
-import br.com.cadin.converters.NumberConverter;
-import br.com.cadin.exceptions.UnsuportedMathOperationException;
 import br.com.cadin.model.Person;
 import br.com.cadin.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
-import static br.com.cadin.converters.NumberConverter.isNumeric;
 
 
 @RestController
