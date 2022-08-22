@@ -23,6 +23,6 @@ public class SimpleMath {
     }
 
     public double sqrt(Double num) {
-        return (Double) Math.sqrt(num);
+        return Math.sqrt(num);
     }
 }
