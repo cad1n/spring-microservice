@@ -1,4 +1,4 @@
-package br.com.cadin;
+package br.com.springstudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

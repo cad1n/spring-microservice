@@ -1,6 +1,6 @@
-package br.com.cadin.services;
+package br.com.springstudy.services;
 
-import br.com.cadin.model.Person;
+import br.com.springstudy.model.Person;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
