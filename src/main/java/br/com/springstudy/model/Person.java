@@ -1,4 +1,4 @@
-package br.com.cadin.model;
+package br.com.springstudy.model;
 
 import java.io.Serializable;
 import java.util.Objects;

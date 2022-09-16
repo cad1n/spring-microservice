@@ -1,7 +1,7 @@
-package br.com.cadin.handlers;
+package br.com.springstudy.handlers;
 
-import br.com.cadin.exceptions.ExceptionResponse;
-import br.com.cadin.exceptions.UnsupportedMathOperationException;
+import br.com.springstudy.exceptions.ExceptionResponse;
+import br.com.springstudy.exceptions.UnsupportedMathOperationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

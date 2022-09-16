@@ -1,4 +1,4 @@
-package br.com.cadin;
+package br.com.springstudy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

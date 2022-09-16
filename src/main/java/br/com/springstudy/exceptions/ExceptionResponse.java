@@ -1,4 +1,4 @@
-package br.com.cadin.exceptions;
+package br.com.springstudy.exceptions;
 
 import java.io.Serial;
 import java.io.Serializable;

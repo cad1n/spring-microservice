@@ -1,8 +1,8 @@
-package br.com.cadin.controllers;
+package br.com.springstudy.controllers;
 
 
-import br.com.cadin.model.Person;
-import br.com.cadin.services.PersonService;
+import br.com.springstudy.model.Person;
+import br.com.springstudy.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;

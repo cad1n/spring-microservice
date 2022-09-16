@@ -1,4 +1,4 @@
-package br.com.cadin.converters;
+package br.com.springstudy.converters;
 
 public class NumberConverter {
 

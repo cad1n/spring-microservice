@@ -1,4 +1,4 @@
-package br.com.cadin.Math;
+package br.com.springstudy.Math;
 
 public class SimpleMath {
 
